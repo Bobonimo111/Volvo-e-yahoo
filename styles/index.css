@@ -5,6 +5,7 @@ body {
     height: 100vh;
 }
 
+/* 
 h1 {
     display: flex;
     flex-direction: row;
@@ -16,7 +17,7 @@ h1 {
 h1 {
     margin: 0;
 }
-
+*/
 h1 img {
     width: 150px;
     -o-object-fit: cover;
@@ -30,6 +31,7 @@ h1 img {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* 
 .container-main {
     display: flex;
     gap: 10px;
@@ -40,7 +42,7 @@ h1 img {
     width: 100%;
     padding: 10px;
 }
-
+ */
 .linha {
     height: auto;
     border-left: solid 2px black;
